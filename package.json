@@ -1,7 +1,7 @@
 {
   "name": "node-webapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "for use demo webapp with express engine",
   "main": "app.js",
   "scripts": {
     "serve":"node app.js",
